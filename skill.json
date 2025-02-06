@@ -3,108 +3,108 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT in Alexa",
           "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "en-GB": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT in Alexa",
           "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "en-CA": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT in Alexa",
           "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "en-IN": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT in Alexa",
           "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "en-AU": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT in Alexa",
           "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "es-ES": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT en Alexa",
           "description": "Skill de Alexa que utiliza la API de OpenAI para generar respuestas desde el modelo ChatGPT",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "es-MX": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT en Alexa",
           "description": "Skill de Alexa que utiliza la API de OpenAI para generar respuestas desde el modelo ChatGPT",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "es-US": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT en Alexa",
           "description": "Skill de Alexa que utiliza la API de OpenAI para generar respuestas desde el modelo ChatGPT",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "fr-FR": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT dans Alexa",
           "description": "Skill Alexa qui utilise l'API OpenAI pour générer des réponses à partir du modèle ChatGPT",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "fr-CA": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT dans Alexa",
           "description": "Skill Alexa qui utilise l'API OpenAI pour générer des réponses à partir du modèle ChatGPT",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "ja-JP": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "Alexaの中のChatGPT",
           "description": "OpenAI APIを使用してChatGPTモデルからの応答を生成するAlexaスキル",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "de-DE": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT in Alexa",
           "description": "Alexa-Skill, der die OpenAI-API verwendet, um Antworten vom ChatGPT-Modell zu generieren",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "it-IT": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT in Alexa",
           "description": "Skill di Alexa che utilizza l'API di OpenAI per generare risposte dal modello ChatGPT",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "hi-IN": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "Alexa में ChatGPT",
           "description": "Alexa कौशल जो OpenAI API का उपयोग करके ChatGPT मॉडल से प्रतिक्रियाएं उत्पन्न करता है",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         },
         "pt-BR": {
-          "name": "smart kid",
+          "name": "hey gpt",
           "summary": "ChatGPT na Alexa",
           "description": "Skill Alexa que usa a API da OpenAI para gerar respostas a partir do modelo ChatGPT",
-          "examplePhrases": ["Alexa smart kid"],
+          "examplePhrases": ["Alexa hey gpt"],
           "keywords": []
         }
       },
